@@ -1,12 +1,37 @@
-# React + Vite
+# 📱 Apple iPhone Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a clone of Apple's iPhone 15 Pro website using **React.js** and **TailwindCSS**. It highlights the effective use of **GSAP (Greensock Animations)** and **Three.js** for displaying iPhone 15 Pro models in various colors and shapes. This project is created to improve and strengthen my Tailwind CSS skills and creating modern and **responsive** ReactJS websites. It is also a good introduction of learning Three.js and GSAP.
 
-Currently, two official plugins are available:
+## ⚒️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- GSAP (Greensock)
+- Vite
+- Tailwind CSS
 
-## Expanding the ESLint configuration
+## 📷 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1899" height="906" alt="Image" src="https://github.com/user-attachments/assets/00870641-0f8e-4bfb-9d78-dc96717d0944" />
+
+## Getting Started
+
+First, install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+Second, run the project using npm:
+
+```bash
+npm run dev
+```
+
+Open http://localhost:5173 in your browser to view the project.
+
+## ✍️ Authors
+
+- [@mjngayawon](https://github.com/mjngayawon)
