@@ -1,6 +1,6 @@
 # 📱 Apple iPhone Landing Page
 
-This is a clone of Apple's iPhone 15 Pro website using **React.js** and **TailwindCSS**. It highlights the effective use of **GSAP (Greensock Animations)** and **Three.js** for displaying iPhone 15 Pro models in various colors and shapes. This project is created to improve and strengthen my Tailwind CSS skills and creating modern and **responsive** ReactJS websites. It is also a good introduction of learning Three.js and GSAP.
+This is a clone of Apple's iPhone 15 Pro website using **React.js** and **TailwindCSS**. It highlights the effective use of **GSAP (Greensock Animations)** and **Three.js** for displaying iPhone 15 Pro models in various colors and shapes. This project was created to enhance and refine my skills in **Tailwind CSS** while building modern, responsive **ReactJS** websites. It also provided an opportunity to dive into **Three.js** for 3D rendering and gain hands-on experience with **GSAP** to create smooth, interactive animations.
 
 ## ⚒️ Tech Stack
 
